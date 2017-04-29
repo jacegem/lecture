@@ -6,24 +6,21 @@ class: center, middle, hero
 
 .title[
   # 도커(Docker)
-  ## 아주 기본만 살짝 합니다.... 저도 잘 몰라요......
-  
-  https://github.com/jacegem/system-trading-python
+  ## 아주 기본만 살짝 합니다.... 저도 잘 몰라요......  
 ]
+
+https://github.com/jacegem/lecture 에서 확인할 수 있습니다.
+
+--
+
+너무 길죠. 그냥,
+> `lecture.cf`
+
+로 오시면 됩니다.
 
 ???
 
-스피커 노트
-
-Speaker notes go after ???
-
-Toggle speaker view by pressing P
-
-Pressing C clones the slideshow view,
-which is the view to put on the projector
-if you're using speaker view.
-
-Press ? to toggle keyboard commands help.
+도커를 설명합니다.
 
 ---
 
